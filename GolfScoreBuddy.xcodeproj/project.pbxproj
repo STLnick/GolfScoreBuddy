@@ -13,6 +13,8 @@
 		161DF9F22BDF295E009CD9D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 161DF9F12BDF295E009CD9D9 /* Preview Assets.xcassets */; };
 		161DF9F92BDF2AFC009CD9D9 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161DF9F82BDF2AFC009CD9D9 /* HomeView.swift */; };
 		161DF9FB2BDF2B22009CD9D9 /* ScorecardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161DF9FA2BDF2B22009CD9D9 /* ScorecardView.swift */; };
+		1665F9702BDF33CB009E452E /* ScorecardTile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1665F96F2BDF33CB009E452E /* ScorecardTile.swift */; };
+		1665F9722BDF3579009E452E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1665F9712BDF3579009E452E /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		161DF9F12BDF295E009CD9D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		161DF9F82BDF2AFC009CD9D9 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		161DF9FA2BDF2B22009CD9D9 /* ScorecardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorecardView.swift; sourceTree = "<group>"; };
+		1665F96F2BDF33CB009E452E /* ScorecardTile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScorecardTile.swift; sourceTree = "<group>"; };
+		1665F9712BDF3579009E452E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				161DF9EC2BDF295C009CD9D9 /* GolfScoreBuddyView.swift */,
 				161DF9F82BDF2AFC009CD9D9 /* HomeView.swift */,
 				161DF9FA2BDF2B22009CD9D9 /* ScorecardView.swift */,
+				1665F96F2BDF33CB009E452E /* ScorecardTile.swift */,
+				1665F9712BDF3579009E452E /* Constants.swift */,
 			);
 			path = GolfScoreBuddy;
 			sourceTree = "<group>";
@@ -145,8 +151,10 @@
 			files = (
 				161DF9F92BDF2AFC009CD9D9 /* HomeView.swift in Sources */,
 				161DF9ED2BDF295C009CD9D9 /* GolfScoreBuddyView.swift in Sources */,
+				1665F9702BDF33CB009E452E /* ScorecardTile.swift in Sources */,
 				161DF9EB2BDF295C009CD9D9 /* GolfScoreBuddyApp.swift in Sources */,
 				161DF9FB2BDF2B22009CD9D9 /* ScorecardView.swift in Sources */,
+				1665F9722BDF3579009E452E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
